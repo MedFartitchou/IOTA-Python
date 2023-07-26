@@ -4,11 +4,11 @@ In this section, you will find extensive practical examples of IOTA functionalit
 - Example 1: Connecting to Node
 - Example 2: Generate a Seed
 - Example 3: Generate Addresses
-- Example 4: check the Balance
-- Example 5: Get Outputs (UTXO) 
-- Example 6: Send Tokens 
-- Example 7: Send Data_Message 
-- Example 8: Fetch Data_Message 
-- Example 9: Send Transaction
+- Example 4: Get Balance
+- Example 5: Get Output (UTXO)
+- Example 6: Find Output (UTXO)
+- Example 7: Send Transaction (tokens)
+- Example 8: Send Data_Message 
+- Example 9: Fetch Data_Message 
 - Example 10: MQTT Protocol
 
